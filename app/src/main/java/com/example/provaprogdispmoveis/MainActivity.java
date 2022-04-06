@@ -35,4 +35,5 @@ public class MainActivity extends AppCompatActivity {
         Intent telaBolsas = new Intent(getApplicationContext(), TelaBolsaEstudo.class);
         startActivity(telaBolsas);
     }
+
 }

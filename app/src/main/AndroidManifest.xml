@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProvaProgDispMoveis">
         <activity
+            android:name=".TelaSistemasOp"
+            android:exported="false" />
+        <activity
+            android:name=".TelaWebTads"
+            android:exported="false" />
+        <activity
+            android:name=".TelaAlgoritmos"
+            android:exported="false" />
+        <activity
             android:name=".TelaBolsaEstudo"
             android:exported="false" />
         <activity
